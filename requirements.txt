@@ -11,9 +11,8 @@ selenium
 urllib3
 ipapi
 func_timeout
-random-word
+random-word==1.0.7
 python-dotenv
-RandomWords
 pyyaml
 notifiers
 pyotp
